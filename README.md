@@ -1,6 +1,6 @@
 # Supply Chain Management – Centralized Monitoring System
 
-A complete **Supply Chain Analytics Project** built using **Python, MySQL, Machine Learning, Power BI, and Dashboard Visualization**.
+A complete **Supply Chain Analytics Project** built using **Python, MySQL, Machine Learning and Dashboard Visualization**.
 
 This project simulates a real-world retail/FMCG supply chain and helps monitor:
 
