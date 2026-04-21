@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,city,state,capacity_units,manager_name,is_active
+WH01,Mumbai Central DC,Mumbai,Maharashtra,50000,Rajesh Sharma,1
+WH02,Delhi NCR Hub,Delhi,Delhi,45000,Priya Nair,1
+WH03,Bengaluru South DC,Bengaluru,Karnataka,38000,Amit Verma,1
+WH04,Chennai Port DC,Chennai,Tamil Nadu,32000,Sunita Rao,1
+WH05,Hyderabad Regional,Hyderabad,Telangana,28000,Vikram Singh,1
+WH06,Kolkata East Hub,Kolkata,West Bengal,25000,Ananya Das,1
+WH07,Ahmedabad West DC,Ahmedabad,Gujarat,22000,Rohit Mehta,1
+WH08,Pune Satellite WH,Pune,Maharashtra,18000,Kavita Joshi,1

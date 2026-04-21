@@ -1,0 +1,25 @@
+{
+  "demand_forecast": {
+    "LinearRegression": {
+      "MAE": 199.4,
+      "RMSE": 288.47,
+      "R2": 0.7896
+    },
+    "RandomForest": {
+      "MAE": 154.46,
+      "RMSE": 226.83,
+      "R2": 0.8699
+    }
+  },
+  "stockout_risk": {
+    "accuracy": 0.994
+  },
+  "delay_predictor": {
+    "accuracy": 0.6
+  },
+  "anomaly_detection": {
+    "total_records": 2496,
+    "anomalies_detected": 125,
+    "anomaly_rate_pct": 5.01
+  }
+}
